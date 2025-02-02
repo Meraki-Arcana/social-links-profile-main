@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+
+:root {
+    --background-clr:hsl(0, 0%, 8%);
+    --primary-text-clr:hsl(0, 0%, 100%);
+    --secondary-text-clr:hsl(75, 94%, 57%);
+    --profile-card:hsl(0, 0%, 12%);
+    --button-clr:hsl(0, 0%, 20%);
+    --hover-clr:hsl(75, 94%, 57%);;
+}
